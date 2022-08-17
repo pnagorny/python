@@ -7,9 +7,7 @@ os.system('CLS')
 options = {
     1: 'kamien',
     2: 'papier',
-    3: 'nozyce',
-    4: 'test',
-    5: 'test2'
+    3: 'nozyce'
 }
 your_score = 0
 comp_score = 0
